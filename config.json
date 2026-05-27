@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingvetch",
+        "uuid": 16529451,
+        "checksum": "fbf6c"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
